@@ -1,0 +1,36 @@
+html,  
+*{
+    margin:0; 
+    padding:0;
+    /*background-color: black;*/}
+
+.flag{
+    margin: 0%;
+    height: 500px;
+    width: 800px;
+
+}
+
+.red {
+    /*border: solid 1px;*/
+    background-color: red;
+    position: relative;
+   /* margin:0;*/
+  /*  padding: 0;
+    /*border-collapse: collapse;*/
+}
+
+.white {
+    /*border: solid 1px;*/
+    background-color: white;
+   position: relative;
+
+    /*margin:0;*/
+   /* padding: 0;*/
+    /*border-collapse: collapse;*/
+}
+
+img {
+    position:absolute;
+    margin-top: -500px;
+}
