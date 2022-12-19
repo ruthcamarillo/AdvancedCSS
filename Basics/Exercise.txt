@@ -1,3 +1,0 @@
-1. A terminal is an resource we can use to navigate our machine (laptop) quicker, like making folders and files. We can also use it to share our code.
-2. The major difference between Git and Github is the fact that Git is the commands we use in the terminal and Github is a website where we can push our code into.
-3. We use Github as a resource to collaborate and share code. We also use it to keep track of what changes are made to the code and who is making said changes.
